@@ -1,1 +1,1 @@
-my final project
+my final project for the class
